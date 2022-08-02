@@ -3,7 +3,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
+
 public class List {
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         
         System.out.println("Crie uma lista e adicione sete notas: ");
@@ -62,10 +67,16 @@ public class List {
         System.out.println(notas);
 
         System.out.println("Confira se a lista está vazia: " + notas.isEmpty());
+
+        
+            
+        }
+         
+        
         
         
        
 
 
     }
-}
+
