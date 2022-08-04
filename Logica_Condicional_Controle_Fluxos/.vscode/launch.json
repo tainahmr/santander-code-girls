@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioMap",
+            "request": "launch",
+            "mainClass": "ExercicioMap",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExerciciosList",
+            "request": "launch",
+            "mainClass": "ExerciciosList",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExerciciosList2",
+            "request": "launch",
+            "mainClass": "ExerciciosList2",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExerciciosSet",
+            "request": "launch",
+            "mainClass": "ExerciciosSet",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch List",
+            "request": "launch",
+            "mainClass": "List",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListGato",
+            "request": "launch",
+            "mainClass": "ListGato",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch Map",
+            "request": "launch",
+            "mainClass": "Map",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch Set",
+            "request": "launch",
+            "mainClass": "Set",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste1",
+            "request": "launch",
+            "mainClass": "Teste1",
+            "projectName": "Logica_Condicional_Controle_Fluxos_abb95131"
+        }
+    ]
+}
